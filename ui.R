@@ -1,7 +1,7 @@
 library(shiny)
 
 # Load the ggplot2 package which provides
-# the 'mpg' dataset.
+# the 'diamonds' dataset.
 library(ggplot2)
 
 # Define the overall UI
