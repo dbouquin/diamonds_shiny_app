@@ -7,7 +7,7 @@ library(ggplot2)
 # Define the overall UI
 shinyUI(
   fluidPage(
-    titlePanel("Basic DataTable"),
+    titlePanel("Daina's Diamond Browser"),
 
     # Create a new Row in the UI for selectInputs
     fluidRow(
